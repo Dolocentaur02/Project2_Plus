@@ -1,10 +1,9 @@
-const fs = require('fs')
+const express = require("express");
+const app = express();
+const route = require("./route.js");
 
-fs.readFile(__dirname + '/info.json', 'utf8', function(err, data) {
-    if (err) {
-        console.log(err)
-    } else {
-        console.log(data)
-        return data
-    }
-})
+app.use("/", route);
+
+app.listen(4000, () => {
+  console.log("app listening on port 4000");
+});
