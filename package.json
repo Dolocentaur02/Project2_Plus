@@ -1,0 +1,19 @@
+{
+  "name": "project2_plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dolocentaur02/Project2_Plus.git"
+  },
+  "author": "Samuel Shobowale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dolocentaur02/Project2_Plus/issues"
+  },
+  "homepage": "https://github.com/Dolocentaur02/Project2_Plus#readme"
+}

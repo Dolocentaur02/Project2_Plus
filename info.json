@@ -1,0 +1,26 @@
+{
+    "name": "Samuel Shobowale",
+    "website": "https://tomatohammado.github.io/",
+    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+    "github": "Dolocentaur02",
+    "email": "samuel.shobowale@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
