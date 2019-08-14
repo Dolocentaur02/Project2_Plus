@@ -1,4 +1,4 @@
-const Profile = require("../models.js/profile")
+const Profile = require("../db/models.js/profile")
 const info = require("./info.json")
 
 Profile.deleteMany({})
